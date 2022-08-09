@@ -9,3 +9,4 @@ Demonstrates control of the Document Object Model or DOM. This will model how th
 - Add a ghost pacman can chase 
 
 ## License 
+MIT License

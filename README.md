@@ -1,5 +1,5 @@
 # Pacman
-!(PacMan1.png)
+<img src="PacMan1.png" width="200" height="">
 
 ## Description
 Demonstrates control of the Document Object Model or DOM. This will model how the browser holds information in memory.
